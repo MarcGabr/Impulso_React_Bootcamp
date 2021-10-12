@@ -9,7 +9,7 @@ Bootcamp da empresa LocalizaLabs (laboratório de tecnologia e inovação da [Im
 - [React](https://pt-br.reactjs.org).
 
 ## 📚 Atividades do Bootcamp
-- [Clone Netflix(HTML)](https://github.com/MarcGabr/Bootcamp_GFT/tree/main/API%20Catalogo%20de%20Jogos)
+- [Clone Netflix(HTML)](https://github.com/MarcGabr/Impulso_React_Bootcamp/tree/main/Clone%20Netflix)
 
 
 ## Author
